@@ -19,7 +19,7 @@ Its purpose is to keep a clear record of my progress, reinforce what I study, an
 ## Journal Entries
 ### 2026
 
-- **July 23** — [Building My GitHub Profile](entries/2026/07/2026-07/2026-07-23-building-my-github-profile.md)
+- **July 23** — [Building My GitHub Profile](entries/2026/07/2026-07-23-building-my-github-profile.md)
 
 Entries will be organized by year and month:
 
