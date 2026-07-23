@@ -27,4 +27,4 @@ Entries will be organized by year and month:
 entries/
 └── 2026/
     └── 07/
-        └── example-entry.md
+        └── 2026-07-23-building-my-github-profile.md
