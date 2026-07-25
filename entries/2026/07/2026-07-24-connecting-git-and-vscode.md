@@ -1,4 +1,4 @@
-# Entry Title
+# Connecting Git, GitHub, and Visual Studio Code on Windows
 
 **Date:** 2026-07-24
 **Topic:**Connecting Git, GitHub, and Visual Studio Code on Windows
