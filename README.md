@@ -20,7 +20,7 @@ Its purpose is to keep a clear record of my progress, reinforce what I study, an
 ### 2026
 
 - **July 23** — [Building My GitHub Profile](entries/2026/07/2026-07-23-building-my-github-profile.md)
-
+- **July 24** — [Connecting Git, GitHub, and Visual Studio Code](entries/2026/07/2026-07-24-connecting-git-github-and-visual-studio-code.md)
 Entries will be organized by year and month:
 
 ```text
