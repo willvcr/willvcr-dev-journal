@@ -1,6 +1,6 @@
 # Setting Up a Raspberry Pi ADS-B Receiver for Flightradar24
 
-**Date:** 2026-07-24  
+**Date:** 2026-07-25  
 **Topic:** Raspberry Pi, ADS-B, and Flightradar24  
 **Status:** Completed
 
