@@ -26,7 +26,7 @@ Its purpose is to keep a clear record of my progress, reinforce what I study, an
 
 ## Resources
 
-- [Bilingual Web Design Brief](resources/README.md) — Reusable client questionnaire available in English and Spanish.
+- [Bilingual Web Design Brief](resources/web-design-brief/README.md) — Reusable client questionnaire available in English and Spanish.
 
 Entries will be organized by year and month:
 
