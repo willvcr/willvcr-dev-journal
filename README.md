@@ -24,6 +24,8 @@ Its purpose is to keep a clear record of my progress, reinforce what I study, an
 - **July 25** — [Setting Up Flightradar24 on Raspberry Pi](entries/2026/07/2026-07-25-setting-up-flightradar24-on-raspberry-pi.md)
 - **July 26** — [Creating a Bilingual Web Design Brief](entries/2026/07/2026-07-26-creating-a-bilingual-web-design-brief.md)
 
+
+
 ## Resources
 
 - [Bilingual Web Design Brief](resources/README.md) — Reusable client questionnaire available in English and Spanish.
@@ -35,3 +37,5 @@ entries/
 └── 2026/
     └── 07/
         └── 2026-07-23-building-my-github-profile.md
+```
+       
