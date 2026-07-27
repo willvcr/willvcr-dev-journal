@@ -76,9 +76,9 @@ willvcr-dev-journal/
 
 ## Useful Resources
 
-- English Web Design Brief
-- Spanish Web Design Brief
-- Journal Entry Template
+- [English Web Design Brief](../../../resources/Web_Design_Brief_English.docx)
+- [Spanish Web Design Brief](../../../resources/Brief_de_Diseno_Web_Espanol.docx)
+- [Journal Entry Template](../../../templates/entry-template.md)
 
 Next Steps
  Test the brief with a sample website project
