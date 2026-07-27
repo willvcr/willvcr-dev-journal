@@ -19,7 +19,7 @@ Aircraft
 → Raspberry Pi
 → Internet
 → Flightradar24
-
+```
 I also documented how to:
 
 Install Raspberry Pi OS.
