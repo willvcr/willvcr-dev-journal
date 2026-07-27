@@ -69,6 +69,8 @@ willvcr-dev-journal/
 │   └── Brief_de_Diseno_Web_Espanol.docx
 └── templates/
     └── entry-template.md
+```
+
 
     The public repository contains only blank reusable templates. Any document completed by a real client must remain private because it may contain confidential business information.
 
