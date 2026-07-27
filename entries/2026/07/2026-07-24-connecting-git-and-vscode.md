@@ -308,8 +308,6 @@ Placeholder	Replace with
 - X.Y.Z.windows.N	The installed Git version
 
 
-PENDING-PENDING-PENDING-PENDING-PENDING-PENDING-PENDING-PENDING-PENDING-PENDING-PENDING-PENDING-PENDING-PENDING-PENDING-PENDING-PENDING-PENDING-PENDING-PENDING-PENDING-PENDING-P
-
 ## What I Learned
 
 Basic PowerShell navigation and how to run Git commands from the terminal.
